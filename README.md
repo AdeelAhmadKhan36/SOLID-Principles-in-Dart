@@ -21,7 +21,7 @@ This project demonstrates the implementation of SOLID principles in Dart. SOLID 
 Contributions are welcome! Please open an issue or submit a pull request to contribute to the project.
 
 ##  Contact
-For any questions or feedback, please contact adeelahmad1831@.com.
+For any questions or feedback, please contact adeelahmad1831@gmail.com.
 
 ## How to Use
 
